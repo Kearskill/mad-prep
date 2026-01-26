@@ -10,3 +10,6 @@ This repo is just my practice before doing `Mobile Application Development` Fina
 | User Interface: Layouts, Views and Widgets         | [T04](Tutorials/T04.md) |
 | ViewGroup                                          | [T05](Tutorials/T05.md) |
 | Fragments and Navigation                           | [T06](Tutorials/T06.md) |
+| App Bar and Bottom Navigation View                 | [T07](Tutorials/T07.md) |
+|                                                    |                         |
+| Permission                                         | [T13](Tutorials/T13.md) |
