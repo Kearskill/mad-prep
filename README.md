@@ -40,3 +40,78 @@ This repo is just my practice before doing `Mobile Application Development` Fina
 Alleged Tips:
 - Media storage going to go out (on twin's life this will come out)
 - Backend Java Code
+
+# WIA2007 MAD
+Date: 4 Feb 2026<br>
+Time: 3pm - 6pm<br>
+Place: Dewan 2 Aras 1 Bangunan Peperiksaan<br>
+mcq with only one correct answer<br>
+bring 2b pencil twin
+
+- 40 mcq
+- 1 scenario-based analytical question
+- 1 coding question
+
+### Part A (20 marks)
+40 mcq<br>
+topics after online test (after app bar and navigation)<br>
+
+so the topics are:
+- Accessibility of User Interface
+- Data Storage
+- Location
+- Sound and Audio
+- Permissions
+
+one correct answer per question
+
+marks deduction mechanism not applied
+
+### Part B (30 marks)
+
+1 scenario based question (10 marks)<br>
+1 coding question (20 marks)
+
+### Multiple Choice Questions
+- Factual questions
+- Correct/Incorrect statements
+- Application & decision making/justification
+
+e.g.<br>
+- Select the class responsible for dispatching information about user interface interactions (such as clicking a button or changing window focus) to the system's accessibility services.
+- What is the approximate accuracy of Fine Location service?
+- Select the most appropriate data storage type for a given application
+- Application of Material 3 Accessibility Principles in a given scenario
+- Transition of MediaPlayer states following a sequence of actions
+- Dealing with Android permissions for a specific usage
+
+
+### Scenario Based Question
+
+Just KBAT question twin
+
+e.g.<br>
+Given a set of rough user requirements for designing an application:
+- Decide app features with justifications
+- Apply relevant guidelines/principles for designing the app
+
+### Programming Question
+
+Use Java twin
+
+To interpret incomplete code based on requirements
+and correctly complete the code and propose
+enhancements to improve the app's usability
+
+e.g.<br>
+Decide appropriate layout and views/widgets for the activity XML file
+<br>
+
+Write Java code to implement the activity:
+- Bind code to views (button, spinner ...)
+- Read and process data sent between activities
+- Make your app more usable (usability)
+
+## Alleged tips
+- Got Unidirectional Data Flow (3 way stupid android data)
+- Intent to transfer data (8 marks)
